@@ -1,0 +1,6 @@
+,mae
+randomForest,0.8950070013798909
+decisionTree,0.9900490871432016
+logisticRegression,1.0123666666666666
+gradientBoosting,0.8402
+mlp,1.108189833921509
